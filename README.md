@@ -154,7 +154,7 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 - Press `Q` to quit
 <br><br>
 My result<br><br>
-<video controls src="https://drive.google.com/open?id=14v6ryBI1RsjULskgrK-kXzAazQqcbK_p"/>
+<video controls src="https://www.youtube.com/watch?v=1s4aAp8OxGg"/>
 
 
 ## References
