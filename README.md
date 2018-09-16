@@ -127,10 +127,9 @@ Open the object-detection-with-YOLO.ipynb file. I have tried to add comments to 
 
 To detect object from images:
 1. Go to  the <b>Object Detection from Image</b> section. 
-2. Change the image name with your image name from the following line
-<br>
-`img = cv2.imread('images/img_2386.jpg', cv2.IMREAD_COLOR)`<br>
-3. If you have multiple object in your image then you have to define all the `tl`(Top left), `br`(Bottom right) for different ofjects and their labels.
+2. Change the image name with your image name from the following line<br>
+`img = cv2.imread('images/img_2386.jpg', cv2.IMREAD_COLOR)`
+3. If you have multiple object in your image then you have to define all the `tl` (Top left), `br` (Bottom right) for different ofjects and their labels.
 <br><br>My result<br><br>
 
 I have put the image below to see if it detecs accurately<br>
@@ -155,9 +154,10 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 `capture = cv2.VideoCapture(0)`
 - Press `Q` to quit
 <br><br>
-To see my webcam result click the image below.<br><br>
-[![img](https://i.imgur.com/dO06FHP.png)](https://i.imgur.com/PUcUU3F.gifv)
+My webcam results are below below.<br><br>
 <p align="center"> <img src="YOLO.gif"/> </p>
+<br>
+Because of lack of data (about 250 images) and having no GPU I had to stop training after 60 epochs, which took 9 hours. The lose was arounf 3.8. I was just trying to learn things so that was enough for me. I recommend keeping the loss less than 1.
 
 
 
