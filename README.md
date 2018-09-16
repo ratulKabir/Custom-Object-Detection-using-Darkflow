@@ -154,7 +154,7 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 - Press `Q` to quit
 <br><br>
 My result<br><br>
-<img src="https://imgur.com/a/pp5VwsO" alt="main image" >
+<img src="https://imgur.com/PUcUU3F" alt="main image" >
 
 
 ## References
