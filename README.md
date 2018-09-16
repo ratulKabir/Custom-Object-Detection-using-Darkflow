@@ -153,8 +153,8 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 `capture = cv2.VideoCapture(0)`
 - Press `Q` to quit
 <br><br>
-My result<br><br>
-<img src="https://i.imgur.com/PUcUU3F.gifv" alt="main image" >
+To see my webcam result click the image below.<br><br>
+[![img](https://i.imgur.com/dO06FHP.png)](https://i.imgur.com/PUcUU3F.gifv)
 
 
 ## References
