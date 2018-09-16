@@ -157,8 +157,7 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 My webcam results are below below.<br><br>
 <p align="center"> <img src="YOLO.gif"/> </p>
 <br>
-Because of lack of data (about 250 images) and having no GPU I had to stop training after 60 epochs, which took 9 hours. The lose was arounf 3.8. I was just trying to learn things so that was enough for me. I recommend keeping the loss less than 1.
-
+My confidence factor is low because of lack of data (about 250 images) and having no GPU I had to stop training after 60 epochs. It took 9 hours and the lose was arounf 3.8. I was just trying to learn things so that was enough for me. I recommend keeping the loss less than 1. 
 
 
 ## References
