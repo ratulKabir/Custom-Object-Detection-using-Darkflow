@@ -129,8 +129,8 @@ To detect object from images:
 1. Go to  the <b>Object Detection from Image</b> section. 
 2. Change the image name with your image name from the following line
 <br>
-`img = cv2.imread('images/img_2386.jpg', cv2.IMREAD_COLOR)`
-3. If you have multiple object in your image then you have to define all the ```tl```(Top left), ```br```(Bottom right) for different ofjects and their labels.
+`img = cv2.imread('images/img_2386.jpg', cv2.IMREAD_COLOR)`<br>
+3. If you have multiple object in your image then you have to define all the `tl`(Top left), `br`(Bottom right) for different ofjects and their labels.
 <br><br>My result<br><br>
 
 I have put the image below to see if it detecs accurately<br>
@@ -138,6 +138,8 @@ I have put the image below to see if it detecs accurately<br>
 It detects ace.
 <br>
 <img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242">
+
+
 #### Video
 
 To detect object from video:
@@ -155,7 +157,8 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 <br><br>
 To see my webcam result click the image below.<br><br>
 [![img](https://i.imgur.com/dO06FHP.png)](https://i.imgur.com/PUcUU3F.gifv)
-[](https://i.imgur.com/PUcUU3F.gif)
+<p align="center"> <img src="YOLO.gif"/> </p>
+
 
 
 ## References
