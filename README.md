@@ -134,10 +134,10 @@ To detect object from images:
 <br><br>My result<br><br>
 
 I have put the image below to see if it detecs accurately<br>
-<img src="img_2386.jpg" alt="Smiley face" height="242" width="242"><br>
+<img src="img_2386.jpg" alt="main image" height="242" width="242"><br>
 It detects ace.
 <br>
-<img src="ace.png" alt="Smiley face" height="242" width="242">
+<img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242">
 #### Video
 
 To detect object from video:
