@@ -40,7 +40,7 @@ You can choose _one_ of the following three ways to get started with darkflow. I
 
 ## Download a weights file
 
-- Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolov2/)
+- Download the YOLOv2 608x608 weights file [here](https://pjreddie.com/darknet/yolov2/)
 - Read more about YOLO (in darknet) and download weight files [here](http://pjreddie.com/darknet/yolo/). In case the weight file cannot be found, you can check [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU), which include `yolo-full` and `yolo-tiny` of v1.0, `tiny-yolo-v1.1` of v1.1 and `yolo`, `tiny-yolo-voc` of v2. Owner of this weights is [Trieu](https://github.com/thtrieu).
 - NOTE: there are other weights files you can try if you like
 - create a ```wights``` folder within the ```darkflow-master``` folder
@@ -133,10 +133,10 @@ To detect object from images:
 <br><br>My result<br><br>
 
 I have put the image below to see if it detecs accurately<br>
-<img src="https://i.imgur.com/zybjn0y.jpg" alt="main image" height="242" width="242"><br>
+<p align="center"> <img src="https://i.imgur.com/zybjn0y.jpg" alt="main image" height="242" width="242"> </p><br>
 It detects ace.
 <br>
-<img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242">
+<p align="center"> <img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242"> </p>
 
 
 #### Video
