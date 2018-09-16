@@ -134,7 +134,7 @@ To detect object from images:
 <br><br>My result<br><br>
 
 I have put the image below to see if it detecs accurately<br>
-<img src="img_2386.jpg" alt="main image" height="242" width="242"><br>
+<img src="https://i.imgur.com/zybjn0y.jpg" alt="main image" height="242" width="242"><br>
 It detects ace.
 <br>
 <img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242">
@@ -154,7 +154,7 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 - Press `Q` to quit
 <br><br>
 My result<br><br>
-<video controls src="YOLO.webm"/>
+<video controls src="https://drive.google.com/open?id=14v6ryBI1RsjULskgrK-kXzAazQqcbK_p"/>
 
 
 ## References
