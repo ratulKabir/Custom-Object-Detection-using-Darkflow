@@ -60,7 +60,7 @@ To make a dataset of objects around you
 - Check this [video](https://www.youtube.com/watch?v=p0nR2YsCY_U&feature=youtu.be) to learn how to use lebelImg.<br>
 - Github repo for labelImg can be found [here](https://github.com/tzutalin/labelImg#installation)
 
-### Training on your own dataset
+## Training on your own dataset
 
 *The steps below assume we want to use tiny YOLO and our dataset has 3 classes*
 
@@ -157,7 +157,7 @@ To detect object from webcam just run the code from <b>Object Detection from Web
 My webcam results are below below.<br><br>
 <p align="center"> <img src="YOLO.gif"/> </p>
 <br>
-My confidence factor is low because of lack of data (about 250 images) and having no GPU I had to stop training after 60 epochs. It took 9 hours and the lose was arounf 3.8. I was just trying to learn things so that was enough for me. I recommend keeping the loss less than 1. 
+My confidence factor is low because of lack of data (about 250 images) and having no GPU. I had to stop training after 60 epochs. It took 9 hours and the lose was around 3.8. I was just trying to learn things so that was enough for me. I recommend keeping the loss less than 1.
 
 
 ## References
