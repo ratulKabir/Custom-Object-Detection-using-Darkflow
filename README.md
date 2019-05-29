@@ -110,7 +110,7 @@ To make a dataset of objects around you
 5. Reference the `tiny-yolo-voc-3c.cfg` model when you train.
 
     `python flow --model cfg/tiny-yolo-voc-3c.cfg --load weights/tiny-yolo-voc.weights --train --annotation train/Annotations --dataset train/Images --gpu 1.0 --epochs 300`
-<br><br>In windows you need to type `python` at the beginning otherwise it does not recognise the flow command. Next spesify the model `--model cfg/tiny-yolo-voc-3c.cfg` and the weights `--load weights/tiny-yolo-voc.weights`. After that specify the path for the annatations `--annotation train/Annotations` and images `--dataset train/Images`. Use `--gpu 1.0` speed, if you have GPU just don't use this part. You can specify the number of epochs. By default it is 1000. However it can be stopped anytime. I recommend to keep the lose below 1. 
+<br><br>In windows you need to type `python` at the beginning otherwise it does not recognise the flow command. Next spesify the model `--model cfg/tiny-yolo-voc-3c.cfg` and the weights `--load weights/tiny-yolo-voc.weights`. After that specify the path for the annatations `--annotation train/Annotations` and images `--dataset train/Images`. Use `--gpu 1.0` to use gpu for speed, if you do not  have GPU just don't use this part. You can specify the number of epochs. By default it is 1000. However it can be stopped anytime. I recommend to keep the lose below 1. 
 <br><br>
 
 - Why should I leave the original `tiny-yolo-voc.cfg` file unchanged?
