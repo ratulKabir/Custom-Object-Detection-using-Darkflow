@@ -48,7 +48,7 @@ You can choose _one_ of the following three ways to get started with darkflow. I
 
 ## Make own Dataset
 
-I have spent one day to take photos, resize them and annotate them. I managed around 250 images. I recommend to have a much bigger dataset for better performance.<br>
+I have run the model on around 250 images. I recommend to have a much bigger dataset for better performance.<br>
 #### Dataset
 To make a dataset of objects around you 
 - start taking photos of the objects that you want to detect.
