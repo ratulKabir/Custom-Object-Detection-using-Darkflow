@@ -130,14 +130,6 @@ To detect object from images:
 2. Change the image name with your image name from the following line<br>
 `img = cv2.imread('images/img_2386.jpg', cv2.IMREAD_COLOR)`
 3. If you have multiple object in your image then you have to define all the `tl` (Top left), `br` (Bottom right) for different ofjects and their labels.
-<br><br>My result<br><br>
-
-I have put the image below to see if it detecs accurately<br>
-<p align="center"> <img src="https://i.imgur.com/zybjn0y.jpg" alt="main image" height="242" width="242"> </p><br>
-It detects ace.
-<br>
-<p align="center"> <img src="https://i.imgur.com/uFwDmhm.png" alt="detected image" height="242" width="242"> </p>
-
 
 #### Video
 
